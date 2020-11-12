@@ -1,2 +1,2 @@
 # portfolio
-Web Page Portfolio for Thinkful Immersion Prep Course
+Web Page Portfolio for Thinkful Engineering Immersion Prep Course
